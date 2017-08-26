@@ -1,2 +1,4 @@
-# UdacityFSW_Project2
-Portfolio website
+# Project 2: Portfolio WebSite
+### by Luis Michilot
+
+
